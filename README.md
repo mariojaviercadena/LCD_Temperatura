@@ -6,7 +6,7 @@ Proyecto integrando pantalla LCD con placa programable arduino, utilizando progr
 El poryecto Mostrara en pantalla LCD la temperatura que detecte el sensor de temperatura.
 
 Diagrama de conexion:
-![Imagen Arduino](DiseñoLDC.jpg "Esquema")
+![Imagen Arduino](DiseñoLCD.jpg "Esquema")
 
 
 Materiales:
